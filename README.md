@@ -14,6 +14,9 @@ Modern product search is broken:
 42% of Amazon reviews are unreliable (Fakespot)
 
 These tools help developers:
-✔️ Scrape ethically (robots.txt compliant)✔️ Visualize ranking factors (transparency-first)✔️ Build alternatives to ad-driven platforms
-Get InvolvedContribute: PRs welcome for new data sources or analysis models.
+✔️ Scrape ethically
+✔️ Build alternatives to ad-driven platforms
+
+Get Involved
+Contribute: PRs welcome for new data sources or analysis models.
 Learn More: Try the Lumigo (https://lumigo.ai) search engine for ad-free, transparent product recommendations.
